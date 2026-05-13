@@ -16,4 +16,4 @@ I am a **Data Analyst** currently transitioning into technical data roles. I am 
 * **Marketing Automation:** Postmark, Brevo.
 
 ### 📬 How to Reach Me
-[LinkedIn](https://linkedin.com/in/your-profile) | [Instagram](https://instagram.com/your-handle)
+[LinkedIn](https://linkedin.com/in/deepanshukumar99/) | [Instagram](https://instagram.com/deepanshu_sahani)
