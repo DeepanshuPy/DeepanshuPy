@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, there! It's Deepanshu! 👋
 
-<!--
-**DeepanshuPy/DeepanshuPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a **Data Analyst** currently transitioning into technical data roles. I am passionate about using data-driven insights to solve complex problems and drive business strategies. I'm proficient in **Python, SQL, and Power BI**.
 
-Here are some ideas to get you started:
+### 🔭 My Interests
+* **Data Analytics:** Using Python (Pandas, NumPy) and SQL to extract insights.
+* **Machine Learning & AI:** Building predictive models and exploring the "predictive side" of data.
+* **Quantitative Trading:** Focused on Gold (XAUUSD) markets.
+* **Creative Design:** I love using Canva for visual storytelling and Instagram posts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+* **Programming Languages:** Python, SQL (PostgreSQL, MySQL).
+* **Data Visualization:** Power BI, Excel, Canva.
+* **Database Management:** PostgreSQL, MySQL.
+* **Marketing Automation:** Postmark, Brevo.
+
+### 📬 How to Reach Me
+[LinkedIn](https://linkedin.com/in/your-profile) | [Instagram](https://instagram.com/your-handle)
